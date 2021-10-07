@@ -1,3 +1,5 @@
+VS2019_\
+Tem que dar o Upadate-DataBase\
 ___________________Especificações___________________\
     _Fazer um sistema web em Asp.NET Core ou Asp.Net 5  com as seguintes especificações:\
         -Deve possuir uma área interna acessível apenas com usuário e senha;\
